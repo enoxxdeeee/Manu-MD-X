@@ -43,6 +43,6 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Manu-MD&2JlC2SYI#R-f9QbG_kbrc4nidrmhiDCN_ve6BVGiSmPeZSSQj8G0", // ඔයාගෙ සෙසන් එක දාගන්න / Put Your Session_id Here !!! 💚
+SESSION_ID: process.env.SESSION_ID || "Manu-MD&WJsHWLJI#eQoXG3ItFFhMEgYjmt2VkLXMrbXRFYf4HOouYi-9zLc", // ඔයාගෙ සෙසන් එක දාගන්න / Put Your Session_id Here !!! 💚
 MONGODB: process.env.MONGODB || "mongodb+srv://deedahn9:<FutJDluNfJVtQslc@cluster0.ljpyg.mongodb.net/", // ඔයාගෙ Mongodb Url එක දාගන්න / Put Your Mongodb Url Here !!! 💚
 };
